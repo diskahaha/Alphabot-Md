@@ -23,7 +23,7 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Daffa-Botz" //namabot kalian
+global.botname = "Daffa-Boz" //namabot kalian
 global.ownername= "Daffa-Tamvan ×፝֟͜×" //nama kalian
 global.myweb ="https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
